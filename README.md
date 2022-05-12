@@ -1,4 +1,6 @@
 # Porfolio
-This is a showcase of Jupyter Notebook projects completed using SQLite and Python..
+This portfolio's goal is to showcase my competency in analytics and data science. 
 
-The selected projects were chosen because they focus on a particular skillsets desired in data analysts. i.e. data cleaning, exploration, visualization, imputation, and overall analytic quality. More projects are available upon request. 
+The projects are numbered in sequential learning order, 1 being the first project created using basic Python and ends in the most recently created, which focuses on data science techniques. 
+
+You can quickly grasp what techniques are a focus for each project by looking at the end of the name, which has the technique or topic in brackets.
